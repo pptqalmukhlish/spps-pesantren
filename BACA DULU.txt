@@ -1,0 +1,18 @@
+USER : admin
+PASS : admin2411
+
+Administrasi :
+administrasi
+admin1
+
+Keuangan :
+keuangan
+admin2
+
+Guru :
+hariri
+hariri
+
+murid :
+NISN
+NISN
